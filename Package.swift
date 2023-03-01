@@ -21,7 +21,7 @@ let package = Package(
         .target(
             name: "Mobile_QKMRZParser_PI",
             dependencies: [],
-            path: "Sources/QKMRZParser",
-            exclude: ["Info.plist"]),
+            path: "Sources/QKMRZParser"
+            )
     ]
 )
